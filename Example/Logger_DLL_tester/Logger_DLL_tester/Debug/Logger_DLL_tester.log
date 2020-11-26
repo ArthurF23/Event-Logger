@@ -1,0 +1,3 @@
+﻿  Logger_DLL_tester.cpp
+C:\Users\apple\Documents\Code\C++\DLLs\Logger_DLL_tester\Logger_DLL_tester\Logger_H.h(13): warning C4091: 'static ': ignored on left of 'std::LOGGER::LEVEL' when no variable is declared
+  Logger_DLL_tester.vcxproj -> C:\Users\apple\Documents\Code\C++\DLLs\Logger_DLL_tester\Debug\Logger_DLL_tester.exe
