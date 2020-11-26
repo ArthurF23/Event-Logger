@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Logger_S.cpp
+C:\Users\apple\Documents\Code\C++\DLLs\LOGGER_DLL_\LOGGER_DLL_\Logger_H.h(13): warning C4091: 'static ': ignored on left of 'std::LOGGER::LEVEL' when no variable is declared
+     Creating library C:\Users\apple\Documents\Code\C++\DLLs\LOGGER_DLL_\Release\LOGGER_DLL_.lib and object C:\Users\apple\Documents\Code\C++\DLLs\LOGGER_DLL_\Release\LOGGER_DLL_.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\apple\Documents\Code\C++\DLLs\LOGGER_DLL_\LOGGER_DLL_\Logger_S.cpp(136): warning C4715: 'READ_LOG': not all control paths return a value
+C:\Users\apple\Documents\Code\C++\DLLs\LOGGER_DLL_\LOGGER_DLL_\Logger_S.cpp(325): warning C4715: 'std::EXPORT::TO_FILE': not all control paths return a value
+  All 1216 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LOGGER_DLL_.vcxproj -> C:\Users\apple\Documents\Code\C++\DLLs\LOGGER_DLL_\Release\LOGGER_DLL_.dll
