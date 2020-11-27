@@ -11,8 +11,13 @@ namespace std {
 			FATAL, //Highest level log type
 			ALL_xREAD_ONLY
 		};
+		/*
+		Write to log
+		*/
 		static __declspec(dllexport) bool WRITE(string log, LEVEL level);
-
+		/*
+		Read from log
+		*/
 		static __declspec(dllexport) string READ(LEVEL level);
 
 	};
